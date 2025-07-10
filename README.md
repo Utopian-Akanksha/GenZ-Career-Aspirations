@@ -1,4 +1,4 @@
-# Career Aspirations of Gen Z – Data Analysis Project
+# 🎯 Career Aspirations of Gen Z – Data Analysis Project
 
 This project explores the career aspirations, values, and workplace preferences of Gen Z in India using survey data. The goal is to uncover actionable insights for educators, recruiters, and organizations.
 
@@ -30,3 +30,20 @@ Parental guidance, social influencers, and world-changers are major career decis
 
 **Work Environment**  
 Preference leans toward hybrid or fully remote roles, with flexibility being
+
+## Tools Used
+
+- **SQL** for data querying and aggregation
+- **Excel** for EDA and dashboard creation
+- **Power BI** *(in progress)* for interactive visualization
+
+## Future Additions
+
+- Power BI Dashboard Upload
+- Final Executive Dashboard in Excel
+- Jupyter Notebook (optional Python support)
+- PDF version of insights report
+
+## 🤝 Contributions & Feedback
+
+This is a personal academic project. Feedback, suggestions, and collaboration are welcome!
